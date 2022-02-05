@@ -1,16 +1,30 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# Stockin
+- project: Stockin
+  role: Fullstack Developer
+  duration: Sep, 2020 &mdash; Dec, 2020
+  url: https://github.com/teamILLO/Stockin
+  description: 주식 분석 및 가격 예측 웹사이트. 데이터베이스 스키마 설계 및 캐싱. 동적 유저 페이지 및 추천종목 차트 페이지 작성. (Django, React)
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Pacemaker 
+- project: Pacemaker
+  role: Frontend Developer
+  duration: Mar, 2022 &mdash; Jun, 2022
+  url: https://github.com/SeoSeongHo/pacemaker-frontend
+  description: 실시간 달리기 어플리케이션. 로그인 페이지 및 유저 히스토리 페이지 작성. (Swift)
+
+# Development of deep learning-based facial normal restoration techniques
+- project: Development of deep learning-based facial normal restoration techniques (Morpheus 3D)
+  role: Pytorch Developer
+  duration: Mar, 2021 &mdash; Jun, 2021
+  url: https://lgm0905.github.io/resume/projects/facial_normal_resotration.pdf
+  description: 인물 사진으로 normal map 추출하는 프로젝트. 딥러닝 모델 경량화 수행. (Pytorch)
+
+# Development of deep learning-based facial normal restoration techniques
+- project: Moiré Pattern Removal for Mobile, Texts/Diagrams on Single-colored Background (MopReM)
+  role: Python Developer
+  duration: Mar, 2022 &mdash; Jun, 2022
+  url: https://github.com/snucvpip/MopReM
+  description: 스마트폰 카메라로 촬영된 사진의 모아레 패턴 제거 프로젝트. (Python, Matlab)
