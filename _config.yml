@@ -1,6 +1,6 @@
 # Site settings
-title: "Jiwon Lee"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Charilaos Apostolidis"
+description: "CV"
 
 # Build settings
 markdown: kramdown
@@ -10,20 +10,20 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "이지원 (Jiwon Lee)"
-resume_title:                   "Jiwon"
+resume_name:                    "Charilaos Apostolidis"
+resume_title:                   "Charilaos"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "csejw16@gmail.com"
+resume_contact_email:           "charis.apostolidis@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+82 10-8480-6266"
-resume_contact_address:         "서울특별시 관악구 신림로 3가길 45-19"
+resume_contact_telephone:       "+30 6972275661"
+resume_contact_address:         "15A Crespin Way, BN1 7FG, Brighton, United Kingdom"
 
-resume_header_contact_info:     "서울 관악구 • +82 10-8480-6266 • csejw16@gmail.com"
+resume_header_contact_info:     "Charilaos Apostolidis • +30 6972275661 • charis.apostolidis@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>좋은 코드를 만들기 위해 노력합니다.</p>"
+resume_header_intro: "<p>Data Scientist.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -38,20 +38,20 @@ resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     false
-resume_section_links:           false
+resume_section_links:           true
 resume_section_associations:    false
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/lgm0905"
+  resume_github_url:            "https://github.com/sirahc5"
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/charilaos-apostolidis"
   # resume_instagram_url:         "insert your Instagram URL here"
-  # resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "http://sirahc.github.com"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
